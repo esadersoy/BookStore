@@ -1,0 +1,17 @@
+com\demoqa\books\pages\BasePage.class
+com\demoqa\books\utilities\ConfigurationReader.class
+com\demoqa\books\utilities\Driver.class
+com\demoqa\books\services\AddBook.class
+com\demoqa\books\services\Authorized.class
+com\demoqa\books\services\GenerateToken.class
+com\demoqa\books\utilities\UniqueArrayListForThread.class
+com\demoqa\books\runners\CukesRunner.class
+com\demoqa\books\utilities\BrowserUtils.class
+com\demoqa\books\utilities\ThreadStateHandler.class
+com\demoqa\books\stepDefs\Hooks.class
+com\demoqa\books\services\Register.class
+com\demoqa\books\stepDefs\BookStore_UI_StepDefs.class
+com\demoqa\books\runners\FailedTestRunner.class
+com\demoqa\books\stepDefs\A_ScenarioName.class
+com\demoqa\books\stepDefs\BookStore_API_StepDefs.class
+com\demoqa\books\pages\BookStorePage.class

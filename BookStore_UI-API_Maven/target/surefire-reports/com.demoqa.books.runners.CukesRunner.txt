@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.demoqa.books.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 31, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.796 s - in com.demoqa.books.runners.CukesRunner
